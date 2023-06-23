@@ -2,7 +2,7 @@
 
 Proyecto final realizado con Java y Swing en 1DAW (CRUD). 
 
-![z](/imagenes/z2.png)
+![z](/imagenes/z4.png)
 ![z12](/imagenes/z3.gif)
 
 ## Prueba
