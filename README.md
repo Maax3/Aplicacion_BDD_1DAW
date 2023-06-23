@@ -33,7 +33,7 @@ WHERE id_fabricante NOT IN (
 	FROM producto);
 ```
 
-![b1](/imagenes/r1.png)
+![b1](/imagenes/x1.png)
 
 
 #### Muestra el producto mas caro de cada fabricante
@@ -48,7 +48,7 @@ ON fabricante.id_fabricante = producto.id_fabricante
 	WHERE id_fabricante = fabricante.id_fabricante);
 ``` 
 
-![b2](/imagenes/r2.png)
+![b2](/imagenes/x2.png)
 
 #### Muestra el numero de productos que tiene cada fabricante
 
@@ -61,7 +61,7 @@ SELECT id_fabricante, nombre, (
 FROM fabricante
 ```
 
-![b3](/imagenes/r3.png)
+![b3](/imagenes/x3.png)
 
 ### Vista Cliente
 Permite visualizar las 2 tablas de la BDD y realizar un CRUD sobre cualquiera de ellas.
