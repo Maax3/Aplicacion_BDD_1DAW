@@ -2,7 +2,8 @@
 
 Proyecto final realizado con Java y Swing en 1DAW (CRUD). 
 
-
+![z](/imagenes/z2.png)
+![z12](/imagenes/z3.gif)
 
 ## Prueba
 Se ha utilizado el programa Jar2exe Wizard para convertir el .jar en un archivo ejecutable.exe. Podéis descargar directamente el archivo .exe y ejecutarlo en Windows. 
@@ -19,6 +20,8 @@ La APP cuenta con un login y además se separa en 2 vistas adicionales a las que
 
 ### Login
 El boton ```REGLAS``` permite la creacion de un nuevo usuario y contraseña. La interfaz en si, existe para validar los datos.
+
+![l1](/imagenes/z1.png)
 
 ### Vista SQL
 Permite realizar cualquier tipo de consulta sobre la tabla como si de MariaDB o MySQL Workbench se tratase. Además, también integra los comandos básicos como ```SHOW TABLES``` o ```DESC TABLE```
