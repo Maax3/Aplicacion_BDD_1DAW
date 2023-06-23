@@ -19,7 +19,7 @@ La aplicación crea una base de datos llamada ```tienda``` de forma automática 
 La APP cuenta con un login y además se separa en 2 vistas adicionales a las que puedes ir accediendo mediante el boton ```SQL``` o ```CLIENTE```. 
 
 ### Login
-El boton ```REGLAS``` permite la creacion de un nuevo usuario y contraseña. La interfaz en si, existe para validar los datos.
+El boton ```INFERIOR DERECHO``` permite la creacion de un nuevo usuario y contraseña. La interfaz en si, existe para validar los datos.
 
 ![l1](/imagenes/z1.png)
 
