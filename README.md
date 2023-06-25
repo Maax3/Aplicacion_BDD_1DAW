@@ -25,7 +25,7 @@ La APP cuenta con un login y además se separa en 2 vistas adicionales a las que
 ### Login
 El boton ```INFERIOR DERECHO``` permite la creacion de un nuevo usuario y contraseña. La interfaz en si, existe para validar los datos.
 
-![l1](/imagenes/registro.png)
+![l1](/imagenes/registro2.png)
 
 ### Vista SQL
 Permite realizar cualquier tipo de consulta sobre la tabla como si de MariaDB o MySQL Workbench se tratase. Además, también integra los comandos básicos como ```SHOW TABLES``` o ```DESC TABLE```
