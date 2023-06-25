@@ -8,10 +8,9 @@ Proyecto final realizado con Java y Swing en 1DAW (CRUD).
 ## Prueba
 Para probar el proyecto necesitas algún IDE como Eclipse. Una vez en el IDE, creas un nuevo proyecto e importas (copias y pegas) los archivos ```SRC``` en la carpeta src del proyecto. Fuera del SRC necesitas copiar y pegar las carpetas de imágenes y sonidos.
 
- ``` IMPORTANTE: ``` la aplicación necesita realizar una conexión con una base de datos real. Para que funcione correctamente necesitáis tener un servicio de BDD instalado en el puerto :3306 Y ```AÑADIR EL CONTROLADOR.JAR A LA LIBRERIA```.  
+ ``` IMPORTANTE: ``` la aplicación necesita realizar una conexión con una base de datos real. Para que funcione correctamente necesitáis tener un servicio de BDD instalado en el puerto :3306 y ```AÑADIR EL CONTROLADOR.JAR A LA LIBRERÍA```.  
 
-### Como añadir a la libreria un conector.jar
-
+### Como añadir a la librería el MYSQL-CONECTOR.JAR:
 ![asd](/imagenes/conector.gif)
 
 
