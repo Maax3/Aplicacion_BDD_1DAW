@@ -6,11 +6,16 @@ Proyecto final realizado con Java y Swing en 1DAW (CRUD).
 ![z12](/imagenes/z3.gif)
 
 ## Prueba
-Se ha utilizado el programa Jar2exe Wizard para convertir el .jar en un archivo ejecutable.exe. Podéis descargar directamente el archivo .exe y ejecutarlo en Windows. 
+Para probar el proyecto necesitas algún IDE como Eclipse. Una vez en el IDE, creas un nuevo proyecto e importas (copias y pegas) los archivos ```SRC``` en la carpeta src del proyecto. Fuera del SRC necesitas copiar y pegar las carpetas de imágenes y sonidos.
 
- ``` IMPORTANTE: ``` la aplicación necesita realizar una conexión con una base de datos real. Para que funcione correctamente necesitáis tener un servicio de BDD instalado en el puerto :3306. 
+ ``` IMPORTANTE: ``` la aplicación necesita realizar una conexión con una base de datos real. Para que funcione correctamente necesitáis tener un servicio de BDD instalado en el puerto :3306 Y ```AÑADIR EL CONTROLADOR.JAR A LA LIBRERIA```.  
 
-Además, cuando iniciéis la APP ```debeis crear una sesion``` introduciendo la password y usuario que utilizais para conectaros en MYSQL. Por ejemplo: root, root.
+### Como añadir a la libreria un conector.jar
+
+![asd](/imagenes/conector.gif)
+
+
+Por último, cuando iniciéis la APP ```debeis crear una sesion``` introduciendo la password y usuario que utilizais para conectaros en MYSQL. Por ejemplo: root, root.
 
 ## Funcionamiento
 La aplicación crea una base de datos llamada ```tienda``` de forma automática que permite realizar la gestión de sus fabricantes y productos. 
@@ -21,7 +26,7 @@ La APP cuenta con un login y además se separa en 2 vistas adicionales a las que
 ### Login
 El boton ```INFERIOR DERECHO``` permite la creacion de un nuevo usuario y contraseña. La interfaz en si, existe para validar los datos.
 
-![l1](/imagenes/z1.png)
+![l1](/imagenes/registro.png)
 
 ### Vista SQL
 Permite realizar cualquier tipo de consulta sobre la tabla como si de MariaDB o MySQL Workbench se tratase. Además, también integra los comandos básicos como ```SHOW TABLES``` o ```DESC TABLE```
